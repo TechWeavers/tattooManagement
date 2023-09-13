@@ -1,0 +1,37 @@
+{
+    "cliente": [
+        {
+          "nome": "Hideaki Fukami",
+          "cpf": 46469197884,
+          "telefone": "11999999999",
+          "email": "teste@gmail.com",
+          "endereco": {
+		    "estado": "São Paulo",
+		    "cidade": "São Paulo",
+            "rua": "Rua das Flores",
+            "numero": 123,
+            "complemento": "A",
+            "cep": "01234567"
+          },
+          "redeSocial": "@hideakifukami",
+          "fichaAnamnese": "---------------"
+        },
+        
+        {
+          "nome": "Maria Silva",
+          "cpf": 12345678901,
+          "telefone": "11988888888",
+          "email": "teste@gmail.com",
+          "endereco": {
+		    "estado": "São Paulo",
+		    "cidade": "São Paulo",
+            "rua": "Rua dos Girassóis",
+            "numero": 456,            
+            "complemento": "A",            
+            "cep": "09876543"
+          },
+          "redeSocial": "@mariasilva",
+          "fichaAnamnese": "---------------"
+        }
+    ]
+}
